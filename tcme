@@ -1,5 +1,5 @@
 {
-    "description": "Typer Command Interface exploit test iteration 1""async data() => { return "hi" }",
+    "description": "Typer Command Interface exploit test iteration 1"console.log("hello");",
     "author": "redblueek",
     "url": "https://redblueek.github.io/typerprojects.github.io/tcmexploit.js"
 }
